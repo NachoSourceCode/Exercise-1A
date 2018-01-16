@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaAndCircumferenceOfCircle", "Mathematical Formulas\AreaAndCircumferenceOfCircle.csproj", "{251C0BA1-158C-4018-BA43-53ECD4BE5B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeOfACircle", "VolumeOfACircle\VolumeOfACircle.csproj", "{41460473-02AF-4B27-B544-F49FFC0FBB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfATriangle", "AreaOfACircle\AreaOfATriangle.csproj", "{837876E8-9904-42A0-A68B-0845252D462D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{3D08A8DA-EAC0-4806-A072-C1BE5B5C7281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251C0BA1-158C-4018-BA43-53ECD4BE5B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251C0BA1-158C-4018-BA43-53ECD4BE5B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251C0BA1-158C-4018-BA43-53ECD4BE5B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251C0BA1-158C-4018-BA43-53ECD4BE5B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41460473-02AF-4B27-B544-F49FFC0FBB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41460473-02AF-4B27-B544-F49FFC0FBB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41460473-02AF-4B27-B544-F49FFC0FBB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41460473-02AF-4B27-B544-F49FFC0FBB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837876E8-9904-42A0-A68B-0845252D462D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837876E8-9904-42A0-A68B-0845252D462D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837876E8-9904-42A0-A68B-0845252D462D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837876E8-9904-42A0-A68B-0845252D462D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D08A8DA-EAC0-4806-A072-C1BE5B5C7281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D08A8DA-EAC0-4806-A072-C1BE5B5C7281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D08A8DA-EAC0-4806-A072-C1BE5B5C7281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D08A8DA-EAC0-4806-A072-C1BE5B5C7281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D9A7C4-6C79-49D8-BB38-3ABFA5F3AA84}
+	EndGlobalSection
+EndGlobal
