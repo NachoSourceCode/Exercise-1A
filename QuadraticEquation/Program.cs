@@ -11,6 +11,7 @@ namespace QuadraticEquation
         static void Main(string[] args)
         {
             //declaring variables
+            //Extra comment.
             double a = 1;
             double b = 6;
             double c = -16;
